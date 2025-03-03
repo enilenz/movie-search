@@ -28,5 +28,3 @@ After cloning, move into the project directory:
 4. Start the development server
 ### `npm start`
 
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
