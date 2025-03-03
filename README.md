@@ -15,7 +15,7 @@ If you do not have it installed head over to the [git website](https://git-scm.c
 
 2. Clone the repository
 Open a terminal and run this command to clone the repository
-### `https://github.com/enilenz/movie-search.git`
+### `git clone https://github.com/enilenz/movie-search.git`
 
 After cloning, move into the project directory:
 ### `cd movie-search`
